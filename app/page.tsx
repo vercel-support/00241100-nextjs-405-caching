@@ -17,7 +17,7 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src='https://apmk0usziftnyvz9.public.blob.vercel-storage.com/1715170141927-kIyluRnmCS8aTwKBrKYM5jc64JuczD'
+              src='https://apmk0usziftnyvz9.public.blob.vercel-storage.com/test/1516973829198-BOuo68hM3y4IEL2vTTxDzidLNxlaOw.jpeg'
               alt='Vercel Logo'
               className='dark:invert'
               width={100}
